@@ -16,6 +16,9 @@ function App() {
       <Botao texto = 'Botao 4' cor ='rosa'/>
   <Botao texto = 'Botao 5' cor ='azul'/>*/ }
 
+<footer className='rodape'> Copyright © 2022  Karla Valeriano</footer>
+
+
     </div>
 
     

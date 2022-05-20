@@ -5,7 +5,7 @@ const  formulario = ({titulo}) =>{
         <form className={styles.form}> 
             <h2 className={styles.titulo}>{titulo}</h2>
             <fieldset>
-                <label>nome:</label>
+                <label> Nome:</label>
                 <input type = "text"/>
             </fieldset>
             <fieldset>
