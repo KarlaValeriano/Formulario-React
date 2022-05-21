@@ -1,3 +1,3 @@
 # Formulario-React
 <br>
- <img src= './images/readme.png'>
+ <img src= '.vite/src/images/readme.png'>
